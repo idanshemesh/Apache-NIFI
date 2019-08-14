@@ -1,4 +1,4 @@
-# AppacheNIFI - CSRF Token
+# Apache NIFI - CSRF Token
 
 This flowfile show how to use [CSRF Token](https://en.wikipedia.org/wiki/Cross-site_request_forgery) authentication.
 using cache services, to reduce the number of authentication requests.

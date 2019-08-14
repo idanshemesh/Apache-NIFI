@@ -12,4 +12,6 @@ using cache services, for the purpose of reducing the number of authentication r
 5. Update flowfile with the token and some cookies.
 6. Send flowfile - in case of authenticaion failre, genereate new token (Step 3).
 
-[![flowfile](https://raw.githubusercontent.com/idanshemesh/AppacheNIFI/master/CSRF/CSRF_Flow.png)]
+![flow](https://raw.githubusercontent.com/idanshemesh/AppacheNIFI/master/CSRF/CSRF_Flow.png)
+
+Enjoy :smiley:

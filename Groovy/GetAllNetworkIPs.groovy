@@ -15,7 +15,6 @@ import java.util.*
 def flowFile = session.get()
 if(!flowFile) return
 
-def text = ''
 def counter = 0
 //Get all my network cards IPs
 def interfaces = NetworkInterface.getNetworkInterfaces()
